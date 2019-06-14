@@ -1,0 +1,58 @@
+.form-control, .form-control:focus {
+    color: blue;
+}    
+.btn-primary{
+
+    background-color: darkred;
+    border-color: blanchedalmond;
+    border-width: 3px;
+    border-top-color: aquamarine;
+    border-bottom-color: aquamarine;
+    border-style:dotted;
+
+}   
+
+.btn:hover{
+    background-color: red;
+    border-width: 5px;    
+    border-color: aquamarine;
+    border-bottom-color: blanchedalmond;
+    border-top-color: blanchedalmond;
+
+
+}
+p{
+    color: red;
+    text-align: center;
+}
+
+p:hover{
+    color: aqua;
+}
+
+.btn ::after{
+    background-color: red;
+}
+body{
+    background-color: green;
+}
+.col-12, h1{
+    text-align: center;
+}
+
+h1, #num1lable, #num2lable{
+   color: blanchedalmond; 
+}
+
+img{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+lable{
+    color:blanchedalmond;
+}
+
+    
